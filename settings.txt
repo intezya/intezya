@@ -1,1 +1,2 @@
-
+IDE font: 20.0
+New UI enabled
