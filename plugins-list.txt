@@ -1,5 +1,0 @@
-Atom Material Icons
-Atom OneDark Theme
-Codeium: AI Autocomplete and Chat for Python, JS, Java, Go...
-Discord Integration V2
-Rainbow Brackets Lite - Free and OpenSource
