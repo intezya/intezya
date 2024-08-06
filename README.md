@@ -9,11 +9,11 @@
 
 ###
 
-<img align="right" height="445" src="https://i.pinimg.com/736x/99/d9/d9/99d9d9ecd844a351ae877f4df30d82ab.jpg"  />
+<img align="right" height="438" src="https://i.pinimg.com/736x/99/d9/d9/99d9d9ecd844a351ae877f4df30d82ab.jpg"  />
 
 ###
 
-<h2 align="left">Languages and Socials</h2>
+<h3 align="left">Languages and Socials</h3>
 
 ###
 
@@ -44,6 +44,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h5 align="right">– "The wind paints your touches..."</h5>
 
