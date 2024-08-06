@@ -32,7 +32,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  <a href="https://t.me/lezviesput">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
@@ -48,11 +50,5 @@
 <br clear="both">
 
 <h5 align="right">– "The wind paints your touches..."</h5>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/intezya/intezya/output/snake.svg" alt="Snake animation" />
 
 ###
