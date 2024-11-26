@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-qilm.vercel.app/api?username=intezya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-qilm.vercel.app/api?username=intezya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1&show=prs_merged&hide=issues" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats-qilm.vercel.app/api/top-langs?username=intezya&locale=en&hide_title=false&layout=donut&langs_count=5&theme=material-palenight&hide_border=false&order=2&exclude_repo=github-readme-stats&hide=mako" height="200" alt="languages graph"  />
 </div>
 
