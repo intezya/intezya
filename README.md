@@ -35,14 +35,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/13r4dq925tjsocb2i85wgx2ol">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=13r4dq925tjsocb2i85wgx2ol&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <h5 align="right">– "The wind paints your touches..."</h5>
