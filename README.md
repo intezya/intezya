@@ -3,8 +3,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-qilm.vercel.app/api?username=intezya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1&show=prs_merged&hide=issues" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats-qilm.vercel.app/api/top-langs?username=intezya&locale=en&hide_title=false&layout=donut&langs_count=5&theme=material-palenight&hide_border=false&order=2&exclude_repo=github-readme-stats&hide=mako" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats-qilm.vercel.app/api?username=intezya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&show=prs_merged&hide=issues" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-qilm.vercel.app/api/top-langs?username=intezya&locale=en&hide_title=false&layout=donut&langs_count=5&theme=dark&hide_border=false&order=2&exclude_repo=github-readme-stats&hide=mako" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -121,8 +121,8 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 <picture>
 	<source
-		srcset="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=material-palenight&layout=compact&hide_border=true"
+		srcset="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=dark&layout=compact&hide_border=true"
 		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 	/>
-	<img alt="WakaTime stats" src="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=material-palenight&layout=compact&hide_border=true&"/>
+	<img alt="WakaTime stats" src="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=dark&layout=compact&hide_border=true&"/>
 </picture>
