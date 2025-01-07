@@ -117,3 +117,12 @@ Makefile                 1 repo              █░░░░░░░░░░�
 Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 <!--END_SECTION:waka-->
+
+
+<picture>
+	<source
+		srcset="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=material-palenight&layout=compact&hide_border=true"
+		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
+	/>
+	<img alt="WakaTime stats" src="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=material-palenight&layout=compact&hide_border=true&"/>
+</picture>
