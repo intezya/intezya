@@ -3,8 +3,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-qilm.vercel.app/api?username=intezya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&show=prs_merged&hide=issues" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats-qilm.vercel.app/api/top-langs?username=intezya&locale=en&hide_title=false&layout=donut&langs_count=5&theme=dracula&hide_border=true&order=2&exclude_repo=github-readme-stats&hide=mako" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats-qilm.vercel.app/api?username=intezya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=holi&locale=en&hide_border=true&order=1&show=prs_merged&hide=issues" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-qilm.vercel.app/api/top-langs?username=intezya&locale=en&hide_title=false&layout=donut&langs_count=5&theme=holi&hide_border=true&order=2&exclude_repo=github-readme-stats&hide=mako" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -41,10 +41,18 @@
 
 ###
 
+<picture>
+	<source
+		srcset="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=holi&layout=compact&hide_border=true"
+		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
+	/>
+	<img alt="WakaTime stats" src="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=holi&layout=compact&hide_border=true&"/>
+</picture>
+
+###
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2040%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -117,12 +125,3 @@ Makefile                 1 repo              █░░░░░░░░░░�
 Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 <!--END_SECTION:waka-->
-
-
-<picture>
-	<source
-		srcset="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=dracula&layout=compact&hide_border=true"
-		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
-	/>
-	<img alt="WakaTime stats" src="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=dracula&layout=compact&hide_border=true&"/>
-</picture>
