@@ -3,50 +3,38 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-qilm.vercel.app/api?username=intezya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&show=prs_merged&hide=issues" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats-qilm.vercel.app/api/top-langs?username=intezya&locale=en&hide_title=false&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&order=2&exclude_repo=github-readme-stats&hide=mako" height="200" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="400" src="https://i.pinimg.com/736x/99/d9/d9/99d9d9ecd844a351ae877f4df30d82ab.jpg"  />
-
-###
-
-<h3 align="left">Languages and Socials</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://github-readme-stats-qilm.vercel.app/api?username=intezya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&order=1&show=prs_merged&hide=issues" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-qilm.vercel.app/api/top-langs?username=intezya&locale=en&hide_title=false&layout=donut&langs_count=5&theme=omni&hide_border=true&order=2&exclude_repo=github-readme-stats&hide=mako" height="200" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://t.me/lezviesput">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-  </a>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="redis logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h5 align="right">– "The wind paints your touches..."</h5>
 
 ###
 
 <picture>
 	<source
-		srcset="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=tokyonight&layout=compact&hide_border=true"
+		srcset="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=omni&layout=compact&hide_border=true"
 		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 	/>
-	<img alt="WakaTime stats" src="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=tokyonight&layout=compact&hide_border=true&"/>
+	<img alt="WakaTime stats" src="https://github-readme-stats-qilm.vercel.app/api/wakatime?username=intezya&theme=omni&layout=compact&hide_border=true&"/>
 </picture>
 
 ###
@@ -56,19 +44,19 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-794.7%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 39.0 kB Used in GitHub's Storage 
- > 
+> 📦 39.0 kB Used in GitHub's Storage
+>
 > 🏆 274 Contributions in the Year 2025
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 8 Public Repositories
+>
+> 🔑 8 Private Repositories
+>
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                513 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
@@ -76,7 +64,8 @@
 🌃 Evening                3117 commits        █████████████░░░░░░░░░░░░   52.00 % 
 🌙 Night                  29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday                   720 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
@@ -88,8 +77,7 @@ Saturday                 760 commits         ███░░░░░░░░�
 Sunday                   1210 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Europe/Samara
@@ -118,7 +106,7 @@ Windows                  33 hrs 49 mins      ███████████�
 Mac                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Go**
 
 ```text
 Go                       15 repos            ███████████░░░░░░░░░░░░░░   44.12 % 
@@ -127,8 +115,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
-
-
-
 
 <!--END_SECTION:waka-->
