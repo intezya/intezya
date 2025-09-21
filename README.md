@@ -40,13 +40,15 @@
 ###
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%2035%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 207.8 kB Used in GitHub's Storage 
  > 
-> 🏆 780 Contributions in the Year 2025
+> 🏆 782 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
