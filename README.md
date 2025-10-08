@@ -4,7 +4,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats-qilm.vercel.app/api?username=intezya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&order=1&show=prs_merged&hide=issues" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats-qilm.vercel.app/api/top-langs?username=intezya&locale=en&hide_title=false&layout=donut&langs_count=5&theme=omni&hide_border=true&order=2&exclude_repo=github-readme-stats&hide=mako" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats-qilm.vercel.app/api/top-langs?username=intezya&locale=en&hide_title=false&layout=donut&langs_count=5&theme=omni&hide_border=true&order=2&exclude_repo=github-readme-stats&hide=Mako,Jupyter%20Notebook" height="200" alt="languages graph"  />
 </div>
 
 ###
