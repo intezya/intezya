@@ -40,6 +40,8 @@
 ###
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C469%20hrs%2038%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -54,6 +56,54 @@
  > 
 > 🔑 39 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                846 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+🌆 Daytime                3907 commits        ███████████░░░░░░░░░░░░░░   43.15 % 
+🌃 Evening                4153 commits        ███████████░░░░░░░░░░░░░░   45.87 % 
+🌙 Night                  148 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   960 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Tuesday                  1179 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Wednesday                932 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Thursday                 1135 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Friday                   1408 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Saturday                 1403 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Sunday                   2037 commits        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Samara
+
+💬 Programming Languages: 
+Go                       4 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.89 % 
+Python                   2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Markdown                 1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Makefile                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 48 mins       ██████████████████████░░░   88.86 % 
+Obsidian                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+
+🐱‍💻 Projects: 
+backend                  6 hrs 17 mins       ██████████████░░░░░░░░░░░   56.92 % 
+character-bot-api        1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+manager-bot              1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+kurumi                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+wiki                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+
+💻 Operating System: 
+Mac                      11 hrs 2 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
