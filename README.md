@@ -40,15 +40,13 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C489%20hrs%2027%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.07%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.08%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 811.2 kB Used in GitHub's Storage 
+> 📦 812.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,530 Contributions in the Year 2026
+> 🏆 1,541 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,45 +54,6 @@
  > 
 > 🔑 41 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                849 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-🌆 Daytime                3929 commits        ███████████░░░░░░░░░░░░░░   43.16 % 
-🌃 Evening                4170 commits        ███████████░░░░░░░░░░░░░░   45.81 % 
-🌙 Night                  155 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   991 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Tuesday                  1180 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Wednesday                942 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Thursday                 1135 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Friday                   1408 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Saturday                 1403 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Sunday                   2044 commits        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Samara
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
