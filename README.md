@@ -56,6 +56,54 @@
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                857 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+🌆 Daytime                4027 commits        ███████████░░░░░░░░░░░░░░   43.18 % 
+🌃 Evening                4286 commits        ███████████░░░░░░░░░░░░░░   45.96 % 
+🌙 Night                  155 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   991 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Tuesday                  1181 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Wednesday                964 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Thursday                 1149 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Friday                   1418 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Saturday                 1470 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Sunday                   2152 commits        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Samara
+
+💬 Programming Languages: 
+TypeScript               1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Go                       1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Java                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+JavaScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+
+🔥 Editors: 
+Codex CLI                7 hrs 32 mins       ██████████████████████░░░   88.63 % 
+IntelliJ IDEA            58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+
+🐱‍💻 Projects: 
+devops                   3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   36.19 % 
+frontend                 2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+backend                  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+final-exam               1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+kurumi                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+
+💻 Operating System: 
+Mac                      8 hrs 30 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
