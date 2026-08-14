@@ -106,11 +106,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               39 repos            ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Go                       28 repos            █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Python                   18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Shell                    10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+TypeScript               39 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Go                       28 repos            █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Python                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Shell                    10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 
 
