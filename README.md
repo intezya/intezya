@@ -40,15 +40,15 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C717%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C717%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-425%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-425%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.91%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 930.3 kB Used in GitHub's Storage 
+> 📦 930.4 kB Used in GitHub's Storage 
  > 
 > 🏆 3,442 Contributions in the Year 2026
  > 
@@ -85,22 +85,42 @@ Sunday                   7894 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Samara
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     9 mins              ████████████████░░░░░░░░░   65.76 % 
+JSON                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex CLI                14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+s3-policies              12 mins             ███████████████████████░░   90.94 % 
+wiki                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 14 mins (100.0%)
+
+✍️ 110 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,766,114 Input Tokens, 18,222 Output Tokens
+
+💵 $0.86 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+GPT                      110 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 54 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
