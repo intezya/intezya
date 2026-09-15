@@ -48,7 +48,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 930.6 kB Used in GitHub's Storage 
+> 📦 930.9 kB Used in GitHub's Storage 
  > 
 > 🏆 3,457 Contributions in the Year 2026
  > 
@@ -85,46 +85,41 @@ Sunday                   7906 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Samara
 
 💬 Programming Languages: 
-YAML                     1 hr 24 mins        ███████████░░░░░░░░░░░░░░   42.32 % 
-Markdown                 1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   32.47 % 
-JSON                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Bash                     9 mins              ████████████████░░░░░░░░░   65.76 % 
+JSON                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-Codex CLI                3 hrs 14 mins       ████████████████████████░   97.32 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Codex CLI                14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  1 hr 24 mins        ███████████░░░░░░░░░░░░░░   42.32 % 
-s3-policies              48 mins             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-servers                  43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-wiki                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+s3-policies              12 mins             ███████████████████████░░   90.94 % 
+wiki                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 
 💻 Operating System: 
-Mac                      3 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 19 mins (100.0%)
+⏱ AI Coding Time: 14 mins (100.0%)
 
-✍️ 237 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 110 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,442,709 Input Tokens, 217,287 Output Tokens
+🔤 2,766,114 Input Tokens, 18,222 Output Tokens
 
-💵 $6.83 Estimated AI Cost This Week
+💵 $0.86 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 36 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-GPT                      237 lines           █████████████████████████   100.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      110 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 184 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 54 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
