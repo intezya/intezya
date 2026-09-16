@@ -48,7 +48,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 930.9 kB Used in GitHub's Storage 
+> 📦 930.6 kB Used in GitHub's Storage 
  > 
 > 🏆 3,457 Contributions in the Year 2026
  > 
@@ -85,42 +85,22 @@ Sunday                   7906 commits        ███████░░░░�
 🕑︎ Time Zone: Europe/Samara
 
 💬 Programming Languages: 
-Bash                     9 mins              ████████████████░░░░░░░░░   65.76 % 
-JSON                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex CLI                14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-s3-policies              12 mins             ███████████████████████░░   90.94 % 
-wiki                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (100.0%)
-
-✍️ 110 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,766,114 Input Tokens, 18,222 Output Tokens
-
-💵 $0.86 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-GPT                      110 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 54 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
