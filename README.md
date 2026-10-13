@@ -48,7 +48,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 935.7 kB Used in GitHub's Storage 
+> 📦 936.0 kB Used in GitHub's Storage 
  > 
 > 🏆 3,721 Contributions in the Year 2026
  > 
@@ -106,11 +106,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               40 repos            ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Go                       28 repos            █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Python                   21 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Shell                    11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+TypeScript               40 repos            ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Go                       28 repos            █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Python                   22 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Shell                    11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
 
